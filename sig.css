@@ -186,3 +186,17 @@ display:none;
     font-family : 'sans-serif';
     margin-top: 5%;
 }
+
+.imgp{
+  margin-left: 150px;
+  float: left;
+}
+.carousel-item h1{
+  float : left;
+  width : 800px;
+  margin-top: 100px;
+  margin-left: 75px;
+}
+.acm{
+  background-color: rgba(255, 255, 255, 0.75);
+}
